@@ -80,8 +80,9 @@ return [
     |
     */
 
-    'locale' => 'en',
-
+    //'locale' => 'en',
+    'locale' => 'es',
+    
     /*
     |--------------------------------------------------------------------------
     | Application Fallback Locale
